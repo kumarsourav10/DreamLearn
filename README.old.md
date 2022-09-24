@@ -1,2 +1,0 @@
-# DreamLearn
-capstone project
